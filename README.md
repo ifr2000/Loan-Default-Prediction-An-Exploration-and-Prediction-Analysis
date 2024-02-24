@@ -31,7 +31,3 @@ The analysis underscores the critical impact of loan terms, interest rates, and 
 
 By implementing these strategies, the bank can enhance its loan issuing policies to mitigate default risks effectively.
 
-## Project Setup
-
-To explore this project, clone the repository and navigate to the project directory. Install the necessary dependencies as outlined in the `requirements.txt` file. The analysis notebooks provide a step-by-step exploration of the data and the development of the predictive models.
-
